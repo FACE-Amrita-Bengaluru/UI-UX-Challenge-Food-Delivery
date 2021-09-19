@@ -1,4 +1,4 @@
-# app
+# Food Delivery Application for Android
 
 A new Flutter project.
 
